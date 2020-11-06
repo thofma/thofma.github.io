@@ -1,0 +1,4 @@
+Sitemap: https://www.thofma.com/sitemap.xml
+
+User-agent: *
+Disallow:
