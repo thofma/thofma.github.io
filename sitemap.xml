@@ -8,8 +8,20 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://www.thofma.com/tables/cm/index.html</loc>
-    <lastmod>2022-01-29</lastmod>
+    <loc>https://www.thofma.com/software/index.html</loc>
+    <lastmod>2022-12-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://www.thofma.com/research/index.html</loc>
+    <lastmod>2023-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://www.thofma.com/teaching/index.html</loc>
+    <lastmod>2023-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -20,20 +32,8 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://www.thofma.com/research/index.html</loc>
-    <lastmod>2022-12-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://www.thofma.com/teaching/index.html</loc>
-    <lastmod>2022-05-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://www.thofma.com/software/index.html</loc>
-    <lastmod>2022-12-03</lastmod>
+    <loc>https://www.thofma.com/tables/cm/index.html</loc>
+    <lastmod>2022-01-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
